@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "c0R9GIv4XNyqCy1Q2BdqtdAfNaaHBjdtKSQzH4ESteE=",
+  "Source": "SimpleBlogAPI",
+  "BasePath": "_content/SimpleBlogAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
